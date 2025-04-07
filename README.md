@@ -27,7 +27,7 @@ Hobi amaçlı yazılım ile uğraşan birisiyim, program geliştirmeyi ve siber 
 - [AoABruteFroce](yakında): Instagram için bruteforce saldırısı aracı.
 - [AoAPhishing](yakında): phishing saldırısı aracı.
 - [Haycraft](www.haycraft.net): Yeni nesil towny sunucusu.
-- [Groyt](https://discord.gg/T5jswCss)yeni nesil gelişmiş çok fonksiyonlu discord botu.
+- [Groyt](https://discord.gg/T5jswCss): yeni nesil gelişmiş çok fonksiyonlu discord botu.
 
 ## 🌐 Sosyal Medya
 
