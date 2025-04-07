@@ -15,16 +15,19 @@ Hobi amaçlı yazılım ile uğraşan birisiyim, program geliştirmeyi ve siber 
   - Python, JavaScript, Java, Ruby, c++, html, php
   
 - **Frameworkler**: 
-  - React, Django, Flask
+  - React, Django, Flask, Sapphire
   
 - **Veritabanları**: 
-  - MySQL, PostgreSQL, MongoDB
+  - MySQL, PostgreSQL, MongoDB, Cassandra
+
 
 ## 📈 Projelerim
 
 - [AlwaysOnGuard](https://github.com/01fromoon/alwaysonguard-multi-hacking): Multi Hacking aracı. (all in one)
 - [AoABruteFroce](yakında): Instagram için bruteforce saldırısı aracı.
 - [AoAPhishing](yakında): phishing saldırısı aracı.
+- [Haycraft](www.haycraft.net): Yeni nesil towny sunucusu.
+- [Groyt](https://discord.gg/T5jswCss)yeni nesil gelişmiş çok fonksiyonlu discord botu.
 
 ## 🌐 Sosyal Medya
 
