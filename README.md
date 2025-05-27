@@ -1,42 +1,41 @@
-# 👋 Merhaba, ben 01fromoon!
+# 👋 Hello, I'm 01fromoon!
 
-Hobi amaçlı yazılım ile uğraşan birisiyim, program geliştirmeyi ve siber güvenlik alanında çalışmayı severim!
+I'm a hobbyist who enjoys software development and working in the field of cybersecurity!
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-- 🔭 Şu anda AlwaysOnGuard (hacking tools) üzerinde çalışıyorum.
-- 🌱 Öğrenmekte olduğum teknolojiler: c++, html, php
-- 📫 İletişim: [nullanooocs@gmail.com]
-- ⚡ Eğlenceli bir gerçek: Kali Linux.
+- 🔭 Currently working on AlwaysOnGuard (hacking tools).
+- 🌱 Technologies I'm learning: C++, HTML, PHP
+- 📫 Contact: [nullanooocs@gmail.com]
+- ⚡ Fun fact: Kali Linux.
 
-## 🛠️ Kullandığım Teknolojiler
+## 🛠️ Technologies I Use
 
-- **Diller**: 
-  - Python, JavaScript, Java, Ruby, c++, html, php
+- **Languages**: 
+  - Python, JavaScript, Java, Ruby, C++, HTML, PHP
   
-- **Frameworkler**: 
+- **Frameworks**: 
   - React, Django, Flask, Sapphire
   
-- **Veritabanları**: 
+- **Databases**: 
   - MySQL, PostgreSQL, MongoDB, Cassandra
 
+## 📈 My Projects
 
-## 📈 Projelerim
+- [AlwaysOnGuard](https://github.com/01fromoon/alwaysonguard-multi-hacking): Multi Hacking tool (all in one)
+- [AlwaysOnGuard](https://github.com/01fromoon/alwaysonguard-network-scanner): Network Scanner tool
+- [AlwaysOnGuard](https://github.com/01fromoon/alwaysonguard-sniffer): Network Sniffer tool
+- [Haycraft](www.haycraft.net): Next generation towny server
+- [Groyt](https://discord.gg/T5jswCss): Next generation advanced multi-purpose Discord bot
 
-- [AlwaysOnGuard](https://github.com/01fromoon/alwaysonguard-multi-hacking): Multi Hacking aracı. (all in one)
-- [AlwaysOnGuard](https://github.com/01fromoon/alwaysonguard-network-scanner): Network Scanner aracı.
-- [AlwaysOnGuard](https://github.com/01fromoon/alwaysonguard-sniffer): Network Sniffer aracı.
-- [Haycraft](www.haycraft.net): Yeni nesil towny sunucusu.
-- [Groyt](https://discord.gg/T5jswCss): yeni nesil gelişmiş çok fonksiyonlu discord botu.
-
-## 🌐 Sosyal Medya
+## 🌐 Social Media
 
 - [Instagram](https://www.instagram.com/barisaydn666/)
 - [Twitter](https://x.com/nullanooo)
-- [Kişisel Web Sitesi](yakında)
+- [Personal Website](coming soon)
 
-## 📊 İstatistikler
+## 📊 Stats
 
-![Kullanıcı İstatistikleri](https://github-readme-stats.vercel.app/api?username=01fromoon&show_icons=true&theme=radical)
+![User Stats](https://github-readme-stats.vercel.app/api?username=01fromoon&show_icons=true&theme=radical)
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=01fromoon&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=01fromoon&layout=compact&theme=radical)
