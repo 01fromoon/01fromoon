@@ -33,7 +33,7 @@ I'm a hobbyist who enjoys software development and working in the field of cyber
 
 - [Instagram](https://www.instagram.com/barisaydn666/)
 - [Twitter](https://x.com/nullanooo)
-- [Personal Website](coming soon)
+- Personal Website (coming soon)
 
 ## 📊 Stats
 
