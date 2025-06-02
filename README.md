@@ -29,6 +29,7 @@ I'm a hobbyist who enjoys software development and working in the field of cyber
 - AlwaysOnGuard [Phone Number Scanner](https://github.com/01fromoon/alwaysonguard-phonescanner)
 - Haycraft, [Next generation towny server](www.haycraft.net)
 - Groyt, [Next generation advanced multi-purpose Discord bot](https://discord.gg/T5jswCss)
+- Nifty, [open source, advanced discord bot](https://github.com/01fromoon/nifty-genel-bot)
 
 ## 🌐 Social Media
 
